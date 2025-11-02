@@ -17,7 +17,14 @@ L'application s'exécute entièrement dans le terminal et prend **trois argument
      > Le programme demandera ensuite la longueur standard utilisée pendant la compression et l'indice du nombre à renvoyer.
 
 Le résultat des compressions et décrompression est conservé dans un fichier Out.txt créé par le programme
+
+## Format:
+
+Seule la première ligne du fichier est considérée.
+Les nombres doivent être séparés par un seule espace.
+Se reférer aux fichiers **Tests** comme exemples.
+
 ## Exemple:
 
 java -jar SE-Project.jar Fichier.txt -o -c
-java -jar SE-Project.jar Fichier.txt -no -g
+java -jar SE-Project.jar Fichier.txt -no -d
