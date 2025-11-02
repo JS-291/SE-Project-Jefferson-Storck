@@ -21,8 +21,11 @@ Le résultat des compressions et décrompression est conservé dans un fichier O
 ## Format:
 
 Seule la première ligne du fichier est considérée.
+
 Les nombres doivent être séparés par un seule espace.
-Aucun nombre ne peut être zéro.
+
+Aucun nombre ne peut être nulle(0).
+
 Se reférer aux fichiers **Tests** comme exemples.
 
 ## Exemple:
