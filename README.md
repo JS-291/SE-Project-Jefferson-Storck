@@ -19,5 +19,5 @@ L'application s'exécute entièrement dans le terminal et prend **trois argument
 Le résultat des compressions et décrompression est conservé dans un fichier Out.txt créé par le programme
 ## Exemple:
 
-java -jar SE-Project.jar monFichier.txt -o -c
-java -jar SE-Project.jar monFichier.txt -no -g
+java -jar SE-Project.jar Fichier.txt -o -c
+java -jar SE-Project.jar Fichier.txt -no -g
