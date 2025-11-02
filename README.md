@@ -15,7 +15,8 @@ L'application s'exécute entièrement dans le terminal et prend **trois argument
      > Le programme demandera ensuite la longueur standard utilisée pendant la compression.
    - `-g` → Get  
      > Le programme demandera ensuite la longueur standard utilisée pendant la compression et l'indice du nombre à renvoyer.
-     
+
+Le résultat des compressions et décrompression est conservé dans un fichier Out.txt créé par le programme
 ## Exemple:
 
 java -jar SE-Project.jar monFichier.txt -o -c
